@@ -50,7 +50,7 @@ body {
   }
   #hero {
       position: relative;
-      background: url('/images/hero.jpeg') no-repeat;
+      background: url('images/hero.jpeg') no-repeat;
       background-position: center;
       background-size: cover;
       height: 300px;
